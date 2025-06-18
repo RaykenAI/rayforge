@@ -146,5 +146,5 @@ MIT License © Rayken AI
 
 ## 🔗 Links
 
-* PyPI: https://pypi.org/project/rayforge
+* PyPI: https://pypi.org/project/rayforge-ai
 * GitHub: [https://github.com/RaykenAI/rayforge](https://github.com/RaykenAI/rayforge)
