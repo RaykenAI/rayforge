@@ -12,8 +12,8 @@ setup(
     description="🧠 RayForge: Universal Python framework to download, run, and metricize AI models via HuggingFace, OpenAI, and Replicate.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Rayken AI",
-    author_email="founder@rayken.ai",
+    author="RaykenAI",
+    author_email="hylendust@gmail.com",
     url="https://github.com/rayken-ai/rayforge",  # Update if needed
     packages=find_packages(exclude=["tests", "*.tests", "*.tests.*", "tests.*"]),
     include_package_data=True,
