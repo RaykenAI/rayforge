@@ -1,0 +1,84 @@
+# === Python Artifacts ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# === Bytecode cache ===
+*.cache
+*.pyc
+
+# === Virtualenv ===
+.venv/
+venv/
+env/
+ENV/
+
+# === Build ===
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# === Tests ===
+htmlcov/
+coverage.*
+.cache/
+.pytest_cache/
+
+# === Jupyter ===
+.ipynb_checkpoints
+*.ipynb
+
+# === Logs ===
+*.log
+*.out
+
+# === VSCode / IDE ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === OS ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Docker ===
+*.dockerfile
+Dockerfile
+docker-compose.yml
+*.tar
+
+# === Node / Frontend (if GUI expands) ===
+node_modules/
+*.lock
+
+# === Models / Artifacts ===
+checkpoints/
+runs/
+*.pt
+*.onnx
+*.h5
+models/
+outputs/
+
+# === Config / Secrets (if any) ===
+.env
+.env.*
+*.secrets
+*.token
+
+# === RayForge specific ===
+rayforge/__pycache__/
+logs/
+outputs/
+data/
+notebooks/
+tmp/
