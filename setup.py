@@ -5,7 +5,7 @@ root = pathlib.Path(__file__).parent
 long_description = (root / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="rayforge",
+    name="rayforge-ai",
     version="0.1.0",
     description="Universal Python framework to download, run, and metricize AI models",
     long_description=long_description,
